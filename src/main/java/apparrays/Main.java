@@ -21,7 +21,7 @@ public class Main {
                 {"www.google.com", "jkbenites", "alalals", "PROD"} //2
         };
 
-
+        System.out.println(config[XTEST][CAMB]);
         //Hacer doble bucle for/for
 
 
